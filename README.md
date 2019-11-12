@@ -89,3 +89,15 @@ Lastly, it’s important to consider for and by who the technology is being used
 ## Want to contribute?
 
 We hope these terms are helpful for everyone - from technical experts to policymakers to the public – to be able to participate in the conversation on facial recognition. We expect them to change and improve over time, so we welcome contributions. 
+
+*If you're used to GitHub*, feel free to make a pull request with your changes. 
+
+*If you're new to GitHub*, you'll need to be logged into a GitHub account, and then:
+
+1. Click on the README.md file in the list of files in this repository.
+2. Just above the text in this document, to the right, there'll be a pencil icon to click to allow you to 'Fork this project and edit the file'.
+3. This file is written in markdown, which is a basic markup language to say how the page is displayed (read a [markdown guide here](https://guides.github.com/features/mastering-markdown/)).
+4. Once you've made your change, describe it under 'Propose file change' then click the green 'Propose file change' button.
+5. Congratulations on your first open source contribution! We'll review your suggestion as soon as we can and get back to you.
+
+If you get stuck, feel free to [contact us at the Ada Lovelace Institute](https://www.adalovelaceinstitute.org/contact-us/).
